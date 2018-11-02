@@ -1,3 +1,1 @@
-const sayHelloAgain = () => "You are treasured and cared for and worth every bit of love that this world can afford you. Have a fantastic day!";
-
-module.exports = {sayHelloAgain};
+export const sayHelloAgain = () => "You are treasured and cared for and worth every bit of love that this world can afford you. Have a fantastic day!";

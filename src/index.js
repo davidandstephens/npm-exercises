@@ -1,5 +1,5 @@
-const $ = require('jquery');
-const { sayHelloAgain } = require('./say-hello');
+import $ from 'jquery';
+import {sayHelloAgain} from "./say-hello";
 
 const sayHello = () => console.log('hello');
 
